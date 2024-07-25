@@ -99,4 +99,4 @@ app.get('/getemployeedetails', (req,res) => {
 // Create server to listen on port
 app.listen(port,(err) => {
     console.log('server is running on port '+port);
-});
+}); 
